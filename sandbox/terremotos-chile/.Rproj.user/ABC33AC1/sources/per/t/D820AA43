@@ -1,0 +1,26 @@
+{
+    "id": "D820AA43",
+    "path": "D:/Git/shiny-apps/cl-eqs/global.r",
+    "project_path": "global.r",
+    "type": "r_source",
+    "hash": "2145433202",
+    "contents": "",
+    "dirty": false,
+    "created": 1639887180977.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "48,27",
+        "scrollLine": "24"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639887371,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639887371719,
+    "read_only": false,
+    "read_only_alternatives": []
+}

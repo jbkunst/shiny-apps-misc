@@ -1,0 +1,11 @@
+name: chess-explorer
+title:
+username:
+account: jbkunst
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5347400
+bundleId: 5389342
+url: https://jbkunst.shinyapps.io/chess-explorer/
+when: 1639886593.47351
+lastSyncTime: 1639886593.47351

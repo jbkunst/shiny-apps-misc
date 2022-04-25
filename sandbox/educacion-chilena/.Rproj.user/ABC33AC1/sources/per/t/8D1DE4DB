@@ -1,0 +1,26 @@
+{
+    "id": "8D1DE4DB",
+    "path": "D:/Git/shiny-apps/cl-educ/server.R",
+    "project_path": "server.R",
+    "type": "r_source",
+    "hash": "1594201678",
+    "contents": "",
+    "dirty": false,
+    "created": 1639885082847.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "114,129",
+        "scrollLine": "0"
+    },
+    "folds": "5|37|203|0|\n7|20|29|2|\n31|24|64|2|\n66|42|101|2|\n",
+    "lastKnownWriteTime": 1639885844,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639885987170,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,6 @@
+"0","data %>%
+  select(rbd, agno, value := input$indicador)
+"
+"2","Error in UseMethod(""select"") : 
+  no applicable method for 'select' applied to an object of class ""packageIQR""
+"

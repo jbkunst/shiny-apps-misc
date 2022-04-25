@@ -1,0 +1,24 @@
+{
+    "id": "AB02A04D",
+    "path": "D:/Git/shiny-apps/rchessbase/ui.R",
+    "project_path": "ui.R",
+    "type": "r_source",
+    "hash": "2700092205",
+    "contents": "",
+    "dirty": false,
+    "created": 1639886863657.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639875986,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639875986,
+    "read_only": false,
+    "read_only_alternatives": []
+}

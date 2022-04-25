@@ -1,0 +1,26 @@
+{
+    "id": "34E1B641",
+    "path": "D:/Git/shiny-apps/cl-educ/ui.R",
+    "project_path": "ui.R",
+    "type": "r_source",
+    "hash": "3857862555",
+    "contents": "",
+    "dirty": false,
+    "created": 1639884930756.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,8",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639885892,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639885892450,
+    "read_only": false,
+    "read_only_alternatives": []
+}
